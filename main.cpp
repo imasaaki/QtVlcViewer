@@ -1,3 +1,4 @@
+// hoge1
 #include "mainwindow.h"
 #include <QApplication>
 
